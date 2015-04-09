@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by Cvpcb (2015-04-08 BZR 5585)-product   date = Thu 09 Apr 2015 12:46:22 PM CLST
+
+BeginCmp
+TimeStamp = /5523EB4C;
+Reference = H1;
+ValeurCmp = PC104_H;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x26;
+EndCmp
+
+BeginCmp
+TimeStamp = /5523EB60;
+Reference = H2;
+ValeurCmp = PC104_H;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x26;
+EndCmp
+
+BeginCmp
+TimeStamp = /55242C39;
+Reference = J17;
+ValeurCmp = CONN_14;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x14;
+EndCmp
+
+BeginCmp
+TimeStamp = /55242C69;
+Reference = J18;
+ValeurCmp = CONN_14;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x14;
+EndCmp
+
+BeginCmp
+TimeStamp = /55242CDB;
+Reference = J19;
+ValeurCmp = CONN_14;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x14;
+EndCmp
+
+BeginCmp
+TimeStamp = /55242CE1;
+Reference = J20;
+ValeurCmp = CONN_14;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x14;
+EndCmp
+
+BeginCmp
+TimeStamp = /5525508B;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /5525543B;
+Reference = K2;
+ValeurCmp = CONN_3;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /5526AF6F;
+Reference = U1;
+ValeurCmp = ADG3308;
+IdModule  = Housings_SSOP:TSSOP-20_4.4x6.5mm_Pitch0.65mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55269ED0;
+Reference = U2;
+ValeurCmp = ADG3308;
+IdModule  = Housings_SSOP:TSSOP-20_4.4x6.5mm_Pitch0.65mm;
+EndCmp
+
+EndListe
