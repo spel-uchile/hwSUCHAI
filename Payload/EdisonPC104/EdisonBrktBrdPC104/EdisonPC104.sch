@@ -643,7 +643,7 @@ F 3 "" H 5500 5250 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 7250 5800 0    60   ~ 0
-VSYS acepta rangos 3.15V-4.5V. \nCuando se usa la BrktBrd VSYS se alimenta a traves \ndel Ored de 5V_USB con VIN (7V-15V) -obviamente \ncon reguladores de por medio-.\nEn esta placa conecta VCC del PC104 a VSYS (3.3V)\npara energizar al Edison
+VSYS acepta rangos 3.15V-4.5V. \nCuando se usa la BrktBrd VSYS se alimenta a traves \ndel Ored de 5V_USB con VIN (7V-15V) -obviamente \ncon reguladores de por medio-.\nEn esta placa se conectó VCC del PC104 a VSYS (3.3V)\npara energizar al Edison
 Text Notes 950  7650 0    60   ~ 0
 UART2 del Edison es por \ndefecto el serial port \ndebug de Linux. UART2 \nseria tambien el UART \nque va al FTDI en la BrkBrd
 $Comp
