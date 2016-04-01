@@ -1,4 +1,46 @@
-Cmp-Mod V01 Created by Cvpcb (2015-04-08 BZR 5585)-product   date = Thu 09 Apr 2015 12:46:22 PM CLST
+Cmp-Mod V01 Created by Cvpcb (2015-04-08 BZR 5585)-product   date = Fri 01 Apr 2016 07:09:12 PM CLT
+
+BeginCmp
+TimeStamp = /56F9E3EF;
+Reference = 10k1;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F9E341;
+Reference = 10k2;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F9D5C5;
+Reference = 10k3;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F9D615;
+Reference = 10k4;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F9D275;
+Reference = 10uF1;
+ValeurCmp = C;
+IdModule  = SMD_Packages:SMD-1206_Pol;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F9CD7E;
+Reference = 200k1;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
 
 BeginCmp
 TimeStamp = /5523EB4C;
@@ -43,31 +85,66 @@ IdModule  = Pin_Headers:Pin_Header_Straight_1x14;
 EndCmp
 
 BeginCmp
-TimeStamp = /5525508B;
-Reference = K1;
+TimeStamp = /56F969B0;
+Reference = K3;
 ValeurCmp = CONN_3;
 IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
 EndCmp
 
 BeginCmp
-TimeStamp = /5525543B;
-Reference = K2;
-ValeurCmp = CONN_3;
-IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+TimeStamp = /56FEC565;
+Reference = P1;
+ValeurCmp = CONN_01X06;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x06;
 EndCmp
 
 BeginCmp
-TimeStamp = /5526AF6F;
-Reference = U1;
-ValeurCmp = ADG3308;
-IdModule  = Housings_SSOP:TSSOP-20_4.4x6.5mm_Pitch0.65mm;
+TimeStamp = /56FEA1AD;
+Reference = P2;
+ValeurCmp = CONN_01X06;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x06;
 EndCmp
 
 BeginCmp
-TimeStamp = /55269ED0;
+TimeStamp = /56F97720;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM15mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F9B472;
 Reference = U2;
-ValeurCmp = ADG3308;
-IdModule  = Housings_SSOP:TSSOP-20_4.4x6.5mm_Pitch0.65mm;
+ValeurCmp = PCA9306;
+IdModule  = SMD_Packages:SOIC-8-N;
+EndCmp
+
+BeginCmp
+TimeStamp = /56FA8762;
+Reference = U3;
+ValeurCmp = SN74LVC1T45;
+IdModule  = TO_SOT_Packages_SMD:SOT-23-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /56FA8740;
+Reference = U4;
+ValeurCmp = SN74LVC1T45;
+IdModule  = TO_SOT_Packages_SMD:SOT-23-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /56FA7860;
+Reference = U5;
+ValeurCmp = SN74LVC1T45;
+IdModule  = TO_SOT_Packages_SMD:SOT-23-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /56F9EFCF;
+Reference = U6;
+ValeurCmp = SN74LVC1T45;
+IdModule  = TO_SOT_Packages_SMD:SOT-23-6;
 EndCmp
 
 EndListe

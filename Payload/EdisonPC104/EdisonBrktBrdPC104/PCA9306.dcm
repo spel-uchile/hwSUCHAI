@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCA9306
+D Switching Regulator
+K POWER
+F linear-tec/lt1108.pdf
+$ENDCMP
+#
+#End Doc Library
