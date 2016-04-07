@@ -958,7 +958,7 @@ Wire Wire Line
 Wire Wire Line
 	2250 5850 1450 5850
 Wire Wire Line
-	700  5300 4300 5300
+	600  5300 4300 5300
 Wire Wire Line
 	4300 5300 4300 6250
 Wire Wire Line
@@ -1064,8 +1064,6 @@ Wire Wire Line
 	1450 6150 2250 6150
 Wire Wire Line
 	1450 6050 2250 6050
-Wire Wire Line
-	600  5950 2250 5950
 Wire Wire Line
 	1450 5750 2250 5750
 Wire Wire Line
@@ -1441,13 +1439,7 @@ Wire Wire Line
 Wire Wire Line
 	3000 3600 700  3600
 Wire Wire Line
-	700  3600 700  5300
-Wire Wire Line
-	650  5250 650  2800
-Wire Wire Line
 	650  2800 3000 2800
-Wire Wire Line
-	600  5950 600  1950
 Wire Wire Line
 	600  1950 3000 1950
 Wire Wire Line
@@ -1474,11 +1466,11 @@ Wire Wire Line
 Wire Wire Line
 	5100 3100 5550 3100
 Text Label 5150 3100 0    60   ~ 0
-FTDI_GND
+FTDI2_GND
 Text Label 5150 2700 0    60   ~ 0
-FTDI_RX
+FTDI2_RX
 Text Label 5150 2800 0    60   ~ 0
-FTDI_TX
+FTDI2_TX
 NoConn ~ 5150 2900
 NoConn ~ 5150 3000
 NoConn ~ 5150 2600
@@ -1515,11 +1507,11 @@ Wire Wire Line
 Wire Wire Line
 	5100 1450 5550 1450
 Text Label 5150 1450 0    60   ~ 0
-FTDI_GND
+FTDI1_GND
 Text Label 5150 1050 0    60   ~ 0
-FTDI_RX
+FTDI1_RX
 Text Label 5150 1150 0    60   ~ 0
-FTDI_TX
+FTDI1_TX
 NoConn ~ 5150 1250
 NoConn ~ 5150 1350
 NoConn ~ 5150 950 
@@ -1571,4 +1563,12 @@ Wire Wire Line
 	5900 5250 10700 5250
 Wire Wire Line
 	10700 5250 10700 5950
+Wire Wire Line
+	600  5300 600  1950
+Wire Wire Line
+	650  5250 650  2800
+Wire Wire Line
+	700  5950 2250 5950
+Wire Wire Line
+	700  3600 700  5950
 $EndSCHEMATC
