@@ -1,0 +1,6 @@
+Quantity    Digikey             Manufacter Number 
+4           296-16843-1-ND      SN74LVC1T45DBVR 
+1           568-4215-1-ND       PCA9306D,118 
+4           311-10KERTR-ND      RC1206JR-0710KL
+1           ERJ-B2AJ204V-ND     ERJ-B2AJ204V 
+1           311-1376-2-ND       CC1206ZKY5V7BB106 
